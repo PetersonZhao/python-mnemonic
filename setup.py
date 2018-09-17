@@ -3,11 +3,11 @@ from setuptools import setup
 
 setup(
     name='mnemonic',
-    version='0.18',
+    version='0.19a',
     author='Bitcoin TREZOR',
-    author_email='info@trezor.io',
+    author_email='zhao6217@gmail.com',
     description='Implementation of Bitcoin BIP-0039',
-    url='https://github.com/trezor/python-mnemonic',
+    url='https://github.com/PetersonZhao/python-mnemonic',
     packages=['mnemonic', ],
     package_data={'mnemonic': ['wordlist/*.txt']},
     zip_safe=False,
