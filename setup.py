@@ -2,7 +2,7 @@
 from setuptools import setup
 
 setup(
-    name='mnemonic',
+    name='mnemonic-ceres',
     version='0.19a',
     author='Bitcoin TREZOR',
     author_email='zhao6217@gmail.com',
